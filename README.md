@@ -1,1 +1,1 @@
-# C-macOs
+# Exercises in C
